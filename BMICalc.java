@@ -7,8 +7,6 @@
 
 /*
  * Program written by Keith Scully.
- * email keithscully83@gmail.com
- * tel 085-1004228
  */
 
 import java.util.Scanner;
